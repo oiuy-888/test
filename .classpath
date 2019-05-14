@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/LS/libs/json/lib_jb51/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/LS/libs/json/lib_jb51/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="D:/LS/libs/json/lib_jb51/commons-collections-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/LS/libs/json/lib_jb51/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/LS/libs/json/lib_jb51/ezmorph-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/LS/libs/json/lib_jb51/xom-1.0d10.jar"/>
+	<classpathentry kind="lib" path="D:/LS/libs/jxl.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_101"/>
+	<classpathentry kind="lib" path="D:/LS/libs/json/json-path-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/LS/libs/json/json-smart-2.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/LS/libs/json/lib_jb51/json-lib-1.1-jdk13.jar"/>
+	<classpathentry kind="lib" path="D:/LS/libs/json/asm-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/LS/libs/json/slf4j-api-1.7.16.jar"/>
+	<classpathentry kind="lib" path="D:/LS/libs/json/slf4j-log4j12-1.7.18.jar"/>
+	<classpathentry kind="lib" path="D:/LS/libs/log4j/log4j.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
